@@ -7,5 +7,5 @@ Website created with HTML, CSS and JS.
 ## HTML
 ## CSS
 ## JavaScript
-## Font Awsome CDN
+## Font Awesome CDN
 ## SASS
